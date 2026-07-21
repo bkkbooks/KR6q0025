@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0025_000.yaml, hash: 'sha256:06976439b5639a1662e674f7e663bc2a5dbeb8cbf45a911a0dbacdda5bb1f840'}
+  - {seq: 0, filename: KR6q0025_000.yaml, hash: 'sha256:0f8ada78eab8558556ff9388a34a3b9f05028a30c61a8fc7ed9632a537a971e5'}
   - {seq: 1, filename: KR6q0025_001.yaml, hash: 'sha256:f5f2ed38076d8f0113d4ddb0723fd0d831895b55aebdb0443f0b7a5f03e31531'}
   - {seq: 2, filename: KR6q0025_002.yaml, hash: 'sha256:2b283c175b9b41c608dede0824dd92227b55123cb0c87c6558598ddaceac126a'}
   - {seq: 3, filename: KR6q0025_003.yaml, hash: 'sha256:f459599ca881da6d55c2881dcd17ffe05f3878733f97662ff563a15b0bf094e1'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 7, filename: KR6q0025_007.yaml, hash: 'sha256:7505c79d1e75c09c503020b24c5087b1520d26cb4859ee3fe86cfaf15fd8b5e2'}
   - {seq: 8, filename: KR6q0025_008.yaml, hash: 'sha256:964d09a96278513047dc32d0d05fdd24b647aca6d77016f365ffabe5adde9a29'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0025_000.markers.yaml, hash: 'sha256:3d2d695c5852225e4b121b2ccae0771bbcc9284c7eaa59230e7dc85910bfc4f0'}
+  - {seq: 0, role: markers, filename: assets/KR6q0025_000.markers.yaml, hash: 'sha256:70553bb44dad06ba4bb3aa3289b8d91c80950a63361b0df1f2c44df8480a1609'}
   - {seq: 1, role: markers, filename: assets/KR6q0025_001.markers.yaml, hash: 'sha256:979822893e6e796f9207ce10663e82e873430855b87728d3dea8849cb1a21756'}
   - {seq: 2, role: markers, filename: assets/KR6q0025_002.markers.yaml, hash: 'sha256:3bdb60aabeed30ffe3f74ec8c5915d8c37547616c4729ab3f91ca6c096ec191f'}
   - {seq: 3, role: markers, filename: assets/KR6q0025_003.markers.yaml, hash: 'sha256:32fb7155ca1bdd99588e551d59abd3a02bf16f6172427ed4643e849de1c5ee15'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0025_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1592-A 揞黑豆集序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0025_X_000-mulu-2
     span:
-    - front
+    - body
     - 868
     - 868
   label: 觚語四則
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0025_X_000-mulu-3
     span:
-    - front
+    - body
     - 1887
     - 1887
   label: 揞黑豆集目次
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0025_X_000-mulu-4
     span:
-    - front
+    - body
     - 2593
     - 2593
   label: 揞黑豆集卷首
@@ -85,7 +85,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0025_X_000-mulu-5
     span:
-    - front
+    - body
     - 2599
     - 2599
   label: 拈頌佛祖機用言句
@@ -1801,7 +1801,7 @@ table_of_contents:
   label: 第三首
   type: mulu
   level: 1
-hash: sha256:145307c8020c9c6b5ac877e49191e6f3fd9f9e426046b93b83dbf5526c603f79
+hash: sha256:60c1c0b2ec7e19a4ba3272c8c010ed7f146399af043f450bb4211efacd68c87f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

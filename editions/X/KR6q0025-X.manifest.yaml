@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0025_000-X.yaml, hash: 'sha256:085ffaa5a2f21cb02b39b9dc5b5c4895c74a3c2ef62230eebc64dd0c041167b4'}
+  - {seq: 0, filename: KR6q0025_000-X.yaml, hash: 'sha256:509680bc1daad8e74d161b6dc14c1e562362e8dc1de72c86c8546c4e5f91d0f4'}
   - {seq: 1, filename: KR6q0025_001-X.yaml, hash: 'sha256:6f24167c77d391e01dc7df2b907f3b9e5e787da0452b2ae48da48aef3ba2fbbb'}
   - {seq: 2, filename: KR6q0025_002-X.yaml, hash: 'sha256:2f385d734eb879c8e8748b9f7882b2bf9b1717b5cf234207477cedf9728fc8d9'}
   - {seq: 3, filename: KR6q0025_003-X.yaml, hash: 'sha256:532215424c53e905db0491f0fa01308b4e80cc8627d27fb40cee63532c72c0bb'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 7, filename: KR6q0025_007-X.yaml, hash: 'sha256:c0c4ab94ae8c62ac2aa195dd1b52dcf65986b002166a2d86008a9604963cc786'}
   - {seq: 8, filename: KR6q0025_008-X.yaml, hash: 'sha256:cd271afee2d6c13388df7cba2d1ab50577221843128e19eae0e9939179a99bc8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0025_000-X.markers.yaml, hash: 'sha256:2768653a6b0b06cfa3aba7dafe2e6994532fc9f37e892f798f102329b8182eea'}
+  - {seq: 0, role: markers, filename: assets/KR6q0025_000-X.markers.yaml, hash: 'sha256:b12aa8f6a59253073c6e7d9abb004a9ede2915577814fa8b58af1ab2c93c6a3e'}
   - {seq: 1, role: markers, filename: assets/KR6q0025_001-X.markers.yaml, hash: 'sha256:8586b89733310bad47ce047482988093c06524b98f40d45e61b56500fd835bb8'}
   - {seq: 2, role: markers, filename: assets/KR6q0025_002-X.markers.yaml, hash: 'sha256:63d715f00dd63bbf82c2641d3aa193bb0cfbfa80314e884090e680d887cdce05'}
   - {seq: 3, role: markers, filename: assets/KR6q0025_003-X.markers.yaml, hash: 'sha256:0034e755487f74604d7d698c4cc3eee7f3a640cdd6b608d5e502b64d2e437fb4'}
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0025_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1592-A 揞黑豆集序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0025_X_000-mulu-2
     span:
-    - front
+    - body
     - 868
     - 868
   label: 觚語四則
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0025_X_000-mulu-3
     span:
-    - front
+    - body
     - 1887
     - 1887
   label: 揞黑豆集目次
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0025_X_000-mulu-4
     span:
-    - front
+    - body
     - 2593
     - 2593
   label: 揞黑豆集卷首
@@ -83,7 +83,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0025_X_000-mulu-5
     span:
-    - front
+    - body
     - 2599
     - 2599
   label: 拈頌佛祖機用言句
@@ -1799,4 +1799,4 @@ table_of_contents:
   label: 第三首
   type: mulu
   level: 1
-hash: sha256:571eeb4843b9dc43fdef86a16f2c92a2d5827325d199025311439a2734102422
+hash: sha256:c8f7a337fc1ac499f531ff2a51c27a9fa353c58347dbe9387749c32f9eba4bd2
